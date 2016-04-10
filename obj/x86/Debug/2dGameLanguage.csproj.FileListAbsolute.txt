@@ -1,0 +1,78 @@
+C:\Users\Ashley\Desktop\TestGM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ashley\Desktop\TestGM\obj\x86\Debug\_2dGameLanguage.BGL.resources
+C:\Users\Ashley\Desktop\TestGM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ashley\Desktop\TestGM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ashley\Desktop\TestGM\bin\Debug\2dGameLanguage.exe
+C:\Users\Ashley\Desktop\TestGM\bin\Debug\2dGameLanguage.pdb
+C:\Users\Ashley\Desktop\TestGM\obj\x86\Debug\_2dGameLanguage.Properties.Resources.resources
+C:\Users\Ashley\Desktop\TestGM\obj\x86\Debug\2dGameLanguage.exe
+C:\Users\Ashley\Desktop\TestGM\obj\x86\Debug\2dGameLanguage.pdb
+E:\sasa\temp\Igra\Slozenije\Game SDK\bin\Debug\2dGameLanguage.exe
+E:\sasa\temp\Igra\Slozenije\Game SDK\bin\Debug\2dGameLanguage.pdb
+E:\sasa\temp\Igra\Slozenije\Game SDK\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\sasa\temp\Igra\Slozenije\Game SDK\obj\x86\Debug\_2dGameLanguage.BGL.resources
+E:\sasa\temp\Igra\Slozenije\Game SDK\obj\x86\Debug\_2dGameLanguage.Properties.Resources.resources
+E:\sasa\temp\Igra\Slozenije\Game SDK\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\sasa\temp\Igra\Slozenije\Game SDK\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\sasa\temp\Igra\Slozenije\Game SDK\obj\x86\Debug\2dGameLanguage.exe
+E:\sasa\temp\Igra\Slozenije\Game SDK\obj\x86\Debug\2dGameLanguage.pdb
+D:\Sasa\______________OOPC#\______Igra\Slozenije\Game SDK\bin\Debug\2dGameLanguage.exe
+D:\Sasa\______________OOPC#\______Igra\Slozenije\Game SDK\bin\Debug\2dGameLanguage.pdb
+D:\Sasa\______________OOPC#\______Igra\Slozenije\Game SDK\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sasa\______________OOPC#\______Igra\Slozenije\Game SDK\obj\x86\Debug\_2dGameLanguage.BGL.resources
+D:\Sasa\______________OOPC#\______Igra\Slozenije\Game SDK\obj\x86\Debug\_2dGameLanguage.Properties.Resources.resources
+D:\Sasa\______________OOPC#\______Igra\Slozenije\Game SDK\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Sasa\______________OOPC#\______Igra\Slozenije\Game SDK\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Sasa\______________OOPC#\______Igra\Slozenije\Game SDK\obj\x86\Debug\2dGameLanguage.exe
+D:\Sasa\______________OOPC#\______Igra\Slozenije\Game SDK\obj\x86\Debug\2dGameLanguage.pdb
+E:\sasa\Dropbox\Nastava_radno\OOP\OOP\2012\Predavanja\3\C#Projekti\Game SDK\bin\Debug\2dGameLanguage.exe
+E:\sasa\Dropbox\Nastava_radno\OOP\OOP\2012\Predavanja\3\C#Projekti\Game SDK\bin\Debug\2dGameLanguage.pdb
+E:\sasa\Dropbox\Nastava_radno\OOP\OOP\2012\Predavanja\3\C#Projekti\Game SDK\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\sasa\Dropbox\Nastava_radno\OOP\OOP\2012\Predavanja\3\C#Projekti\Game SDK\obj\x86\Debug\_2dGameLanguage.BGL.resources
+E:\sasa\Dropbox\Nastava_radno\OOP\OOP\2012\Predavanja\3\C#Projekti\Game SDK\obj\x86\Debug\_2dGameLanguage.Properties.Resources.resources
+E:\sasa\Dropbox\Nastava_radno\OOP\OOP\2012\Predavanja\3\C#Projekti\Game SDK\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\sasa\Dropbox\Nastava_radno\OOP\OOP\2012\Predavanja\3\C#Projekti\Game SDK\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\sasa\Dropbox\Nastava_radno\OOP\OOP\2012\Predavanja\3\C#Projekti\Game SDK\obj\x86\Debug\2dGameLanguage.exe
+E:\sasa\Dropbox\Nastava_radno\OOP\OOP\2012\Predavanja\3\C#Projekti\Game SDK\obj\x86\Debug\2dGameLanguage.pdb
+C:\smladen\Dropbox\Nastava_radno\OOP\OOP\2012\Predavanja\3\C#Projekti\Game SDK\obj\x86\Debug\2dGameLanguage.exe
+C:\smladen\Dropbox\Nastava_radno\OOP\OOP\2012\Predavanja\3\C#Projekti\Game SDK\obj\x86\Debug\2dGameLanguage.pdb
+C:\smladen\Dropbox\Nastava_radno\OOP\OOP\2012\Predavanja\3\C#Projekti\Game SDK\bin\Debug\2dGameLanguage.exe
+C:\smladen\Dropbox\Nastava_radno\OOP\OOP\2012\Predavanja\3\C#Projekti\Game SDK\bin\Debug\2dGameLanguage.pdb
+C:\smladen\Dropbox\Nastava_radno\OOP\OOP\2012\Predavanja\3\C#Projekti\Game SDK\obj\x86\Debug\2dGameLanguage.csprojResolveAssemblyReference.cache
+C:\smladen\Dropbox\Nastava_radno\OOP\OOP\2012\Predavanja\3\C#Projekti\Game SDK\obj\x86\Debug\_2dGameLanguage.BGL.resources
+C:\smladen\Dropbox\Nastava_radno\OOP\OOP\2012\Predavanja\3\C#Projekti\Game SDK\obj\x86\Debug\_2dGameLanguage.Properties.Resources.resources
+C:\smladen\Dropbox\Nastava_radno\OOP\OOP\2012\Predavanja\3\C#Projekti\Game SDK\obj\x86\Debug\2dGameLanguage.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\Game SDK\bin\Debug\2dGameLanguage.exe
+C:\Users\Stefan\Desktop\Game SDK\bin\Debug\2dGameLanguage.pdb
+C:\Users\Stefan\Desktop\Game SDK\obj\x86\Debug\_2dGameLanguage.BGL.resources
+C:\Users\Stefan\Desktop\Game SDK\obj\x86\Debug\_2dGameLanguage.Properties.Resources.resources
+C:\Users\Stefan\Desktop\Game SDK\obj\x86\Debug\2dGameLanguage.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\Game SDK\obj\x86\Debug\2dGameLanguage.exe
+C:\Users\Stefan\Desktop\Game SDK\obj\x86\Debug\2dGameLanguage.pdb
+C:\Users\Stefan\Desktop\Game SDK\obj\x86\Debug\2dGameLanguage.csprojResolveAssemblyReference.cache
+D:\Work\GitHub\Repeticije\Game SDK - Covjece ne ljuti se\obj\x86\Debug\2dGameLanguage.exe
+D:\Work\GitHub\Repeticije\Game SDK - Covjece ne ljuti se\obj\x86\Debug\2dGameLanguage.pdb
+D:\Work\GitHub\Repeticije\Game SDK - Covjece ne ljuti se\bin\Debug\2dGameLanguage.exe
+D:\Work\GitHub\Repeticije\Game SDK - Covjece ne ljuti se\bin\Debug\2dGameLanguage.pdb
+D:\Work\GitHub\Repeticije\Game SDK - Covjece ne ljuti se\obj\x86\Debug\2dGameLanguage.csprojResolveAssemblyReference.cache
+D:\Work\GitHub\Repeticije\Game SDK - Covjece ne ljuti se\obj\x86\Debug\_2dGameLanguage.Properties.Resources.resources
+D:\Work\GitHub\Repeticije\Game SDK - Covjece ne ljuti se\obj\x86\Debug\2dGameLanguage.csproj.GenerateResource.Cache
+D:\Work\GitHub\Repeticije\Game SDK - Covjece ne ljuti se\obj\x86\Debug\_2dGameLanguage.BGL.resources
+C:\Users\Stefan\Desktop\Game SDK - Covjece ne ljuti se\obj\x86\Debug\2dGameLanguage.exe
+C:\Users\Stefan\Desktop\Game SDK - Covjece ne ljuti se\obj\x86\Debug\2dGameLanguage.pdb
+C:\Users\Stefan\Desktop\Game SDK - Covjece ne ljuti se\bin\Debug\2dGameLanguage.exe
+C:\Users\Stefan\Desktop\Game SDK - Covjece ne ljuti se\bin\Debug\2dGameLanguage.pdb
+C:\Users\Stefan\Desktop\Game SDK - Covjece ne ljuti se\obj\x86\Debug\2dGameLanguage.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Game SDK - Covjece ne ljuti se\obj\x86\Debug\_2dGameLanguage.BGL.resources
+C:\Users\Stefan\Desktop\Game SDK - Covjece ne ljuti se\obj\x86\Debug\_2dGameLanguage.Properties.Resources.resources
+C:\Users\Stefan\Desktop\Game SDK - Covjece ne ljuti se\obj\x86\Debug\2dGameLanguage.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\C#\Game SDK - Covjece ne ljuti se\obj\x86\Debug\2dGameLanguage.exe
+C:\Users\Stefan\Desktop\C#\Game SDK - Covjece ne ljuti se\obj\x86\Debug\2dGameLanguage.pdb
+C:\Users\Stefan\Desktop\C#\Game SDK - Covjece ne ljuti se\bin\Debug\2dGameLanguage.exe
+C:\Users\Stefan\Desktop\C#\Game SDK - Covjece ne ljuti se\bin\Debug\2dGameLanguage.pdb
+C:\Users\Stefan\Desktop\C#\Game SDK - Covjece ne ljuti se\obj\x86\Debug\2dGameLanguage.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\C#\Game SDK - Covjece ne ljuti se\obj\x86\Debug\_2dGameLanguage.BGL.resources
+C:\Users\Stefan\Desktop\C#\Game SDK - Covjece ne ljuti se\obj\x86\Debug\_2dGameLanguage.Properties.Resources.resources
+C:\Users\Stefan\Desktop\C#\Game SDK - Covjece ne ljuti se\obj\x86\Debug\2dGameLanguage.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\New folder\obj\x86\Debug\2dGameLanguage.exe
+C:\Users\Stefan\Desktop\New folder\obj\x86\Debug\2dGameLanguage.pdb
