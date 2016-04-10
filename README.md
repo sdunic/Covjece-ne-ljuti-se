@@ -1,1 +1,1 @@
-# GameSDK---2dGameLanguage
+Board game developed using GameSDK - 2dGameLanguage.
